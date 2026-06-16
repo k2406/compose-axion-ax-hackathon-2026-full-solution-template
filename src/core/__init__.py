@@ -1,0 +1,1 @@
+# COMPOSE core package
