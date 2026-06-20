@@ -14,7 +14,7 @@ DEMOS = [
     {
         "id": 1,
         "scenario": "Baseline",
-        "command": "move red cube right of blue block",
+        "command": "move red cube right of blue cube",
         "expect_success": True,
         "expect_novel": False,
     },
@@ -42,7 +42,7 @@ DEMOS = [
     {
         "id": 5,
         "scenario": "Multi-constraint",
-        "command": "move blue block in front of yellow container",
+        "command": "move blue cube in front of yellow container",
         "expect_success": True,
         "expect_novel": False,
     },

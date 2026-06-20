@@ -57,12 +57,16 @@ COLOR_ALIASES = {
 }
 
 SHAPE_ALIASES = {
-    "cube": Shape.CUBE, "box": Shape.CUBE, "square": Shape.CUBE,
-    "cylinder": Shape.CYLINDER, "cyl": Shape.CYLINDER, "tube": Shape.CYLINDER,
-    "block": Shape.BLOCK, "rect": Shape.BLOCK, "rectangle": Shape.BLOCK,
-    "sphere": Shape.SPHERE, "ball": Shape.SPHERE, "circle": Shape.SPHERE,
-    "container": Shape.CONTAINER, "bin": Shape.CONTAINER, "tray": Shape.CONTAINER,
-    "package": Shape.CONTAINER, "box": Shape.CUBE,
+    "cube":      Shape.CUBE,      "box":       Shape.CUBE,
+    "square":    Shape.CUBE,      "block":     Shape.CUBE,
+    "rect":      Shape.CUBE,      "rectangle": Shape.CUBE,
+    "cylinder":  Shape.CYLINDER,  "cyl":       Shape.CYLINDER,
+    "tube":      Shape.CYLINDER,  "rod":       Shape.CYLINDER,
+    "sphere":    Shape.SPHERE,    "ball":      Shape.SPHERE,
+    "circle":    Shape.SPHERE,    "orb":       Shape.SPHERE,
+    "container": Shape.CONTAINER, "bin":       Shape.CONTAINER,
+    "tray":      Shape.CONTAINER, "package":   Shape.CONTAINER,
+    "bowl":      Shape.CONTAINER, "basket":    Shape.CONTAINER,
 }
 
 SIZE_ALIASES = {
