@@ -12,7 +12,7 @@
 
 **Final Presentation Google Drive Link** - [FILL AFTER JUN 21]
 
-**Full Submission Demo Video Link** - [FILL AFTER JUN 21]
+**Full Submission Demo Video Link** - https://youtu.be/IvE0EpuIrds
 
 **Setup & Result Reproducibility Video Link** - [FILL AFTER JUN 21]
 
