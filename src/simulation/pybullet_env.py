@@ -46,7 +46,7 @@ RGBA_MAP = {
 # Shape → (half-extents or radius, height)
 SHAPE_DIMS = {
     Shape.CUBE:      {"type": "box",      "half": [0.04, 0.04, 0.04]},
-    Shape.BLOCK:     {"type": "box",      "half": [0.06, 0.04, 0.03]},
+    Shape.CUBE:     {"type": "box",      "half": [0.06, 0.04, 0.03]},
     Shape.CONTAINER: {"type": "box",      "half": [0.06, 0.06, 0.05]},
     Shape.CYLINDER:  {"type": "cylinder", "radius": 0.03, "height": 0.08},
     Shape.SPHERE:    {"type": "sphere",   "radius": 0.04},

@@ -41,8 +41,8 @@ Natural Language Command
               ↓
 ┌─────────────────────────────┐
 │  VISUAL PERCEPTION          │
-│  YOLO-v8m: detect objects   │
-│  DINOv2: extract features   │
+│  YOLO-v8m: detect objects  │
+│  DINOv2: extract features  │
 │  AttributeMLP: classify     │
 │  → SceneObject list         │
 └─────────────┬───────────────┘

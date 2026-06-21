@@ -1,7 +1,0 @@
-demo_id,scenario,command,passed,success,is_novel,confidence,latency_ms
-1,Baseline,move red cube right of blue block,True,True,False,0.82,0.9
-2,Attribute reasoning,move green cylinder behind yellow container,True,True,False,0.82,0.2
-3,Novel colour generalisation,move cyan sphere left of green cylinder,True,True,True,0.85,0.1
-4,Novel composition,move purple container beside red cube,True,True,False,0.82,0.1
-5,Multi-constraint,move blue block in front of yellow container,True,True,False,0.82,0.2
-6,Ambiguity handling,move that box,True,False,False,0.58,0.1
