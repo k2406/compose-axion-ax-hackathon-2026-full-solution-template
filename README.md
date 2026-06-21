@@ -14,7 +14,7 @@
 
 **Full Submission Demo Video Link** - https://youtu.be/IvE0EpuIrds
 
-**Setup & Result Reproducibility Video Link** - [FILL AFTER JUN 21]
+**Setup & Result Reproducibility Video Link** - https://youtu.be/rhQh9Mf5F80
 
 ---
 
