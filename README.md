@@ -10,7 +10,7 @@
 
 **Institute/College Name** - RV College of Engineering, Bengaluru, Karnataka - 560059
 
-**Final Presentation Google Drive Link** - [FILL AFTER JUN 21]
+**Final Presentation Google Drive Link** - https://drive.google.com/file/d/1EJGq64FlqLMa4LZkm1p3Jx5OIdPers6P/view?usp=sharing
 
 **Full Submission Demo Video Link** - https://youtu.be/IvE0EpuIrds
 
